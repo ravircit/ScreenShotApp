@@ -1,0 +1,10 @@
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\bin\Debug\ScreenShotApp.exe.config
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\bin\Debug\ScreenShotApp.exe
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\bin\Debug\ScreenShotApp.pdb
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.Properties.Resources.resources
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.csproj.GenerateResource.cache
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.csproj.CoreCompileInputs.cache
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.exe
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.pdb
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.csprojAssemblyReference.cache
+C:\Users\ravi\source\repos\ScreenShotApp\ScreenShotApp\obj\Debug\ScreenShotApp.Form1.resources
